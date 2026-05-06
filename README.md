@@ -40,6 +40,18 @@ automated workflow frameworks that determine platform quality.
 
 ---
 
+### AD-apt — GMI Cloud × Z.ai Hackathon, 1st Place *(USD 800)*
+AI-powered ad localisation tool for SME cross-border marketing.
+Identified two converging pain points: cultural mismatch causing 
+lost conversions, and the prohibitive cost of localisation agencies. Identifying the market gap, our team
+built a product proposition that addressed both.
+I took lead in product strategy, demand analysis, and pitch delivery.
+Placed 1st across cross-university teams in a 6-hour sprint.
+
+`AI` `Product Strategy` `Go-to-Market` `Pitch`
+
+---
+
 ## How I Think About Building
 
 Most of my projects start with a broken process or a gap I noticed somewhere.
