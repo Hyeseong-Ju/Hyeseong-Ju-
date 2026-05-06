@@ -68,9 +68,9 @@ and what real users actually say. I believe my strenght lies in identifying real
 
 ## Languages
 
- Mandarin — Native (HSK Level 6)
- Korean — Fluent
- English — Native
+🇨🇳 Mandarin — Native (HSK Level 6)
+🇰🇷 Korean — Fluent
+🇬🇧 English — Native
 
 ---
 
