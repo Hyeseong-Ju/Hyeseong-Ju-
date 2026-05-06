@@ -50,7 +50,7 @@ SeniorConnect started because loneliness in ageing populations especially in sin
 that is negatively bringing social consequences. 
 
 I am interested in the space between what an AI is built to understand
-and what real users actually say. That gap is operational before it is technical.
+and what real users actually say. I believe my strenght lies in identifying real-world gaps and finding creative approaches to address the underlying issues.
 
 ---
 
@@ -68,9 +68,9 @@ and what real users actually say. That gap is operational before it is technical
 
 ## Languages
 
-Mandarin — Native (HSK Level 6)
-Korean — Fluent
-English — Native
+ Mandarin — Native (HSK Level 6)
+ Korean — Fluent
+ English — Native
 
 ---
 
